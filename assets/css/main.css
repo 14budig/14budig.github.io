@@ -1,1 +1,14 @@
-/* custom styles */
+/*empty*/
+img{
+  height: 20em;
+  width: auto;
+}
+
+div{
+  text-align: center;
+}
+
+body{
+  height:100%;
+  width: 100%;
+}
