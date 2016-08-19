@@ -1,13 +1,39 @@
 img{
-  height: 20em;
+  height: 15em;
   width: auto;
+  position:absolute;
+  left:1em;
+  top:1em;
 }
 
-div{
+.clearfix {
+  overflow: auto;
+}
+
+header{
+  height: 17em;
+  background: #232323;
+}
+
+h1{
   text-align: center;
+  padding:1em;
+  font-size: 350%
+}
+
+#contact-items{
+  padding-left: 1em;
+}
+
+#contact{
+  display: block;
+  text-align: left;
+  float:right;
+  margin-top: 3em;
+  margin-right:5px;
 }
 
 body {
   color: white;
-  background: #232323;
+  background: #727272;
 }
