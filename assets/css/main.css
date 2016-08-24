@@ -1,9 +1,14 @@
-img{
-  height: 15em;
-  width: auto;
+/*@media (max-width: 700px) {
+  img{
+    display: none;
+  }
+*/
+#smiley {
+  height: 10em;
+  width: 10em;;
   position:absolute;
   left:1em;
-  top:1em;
+  top: 3em;
 }
 
 .clearfix {
@@ -17,7 +22,7 @@ header{
 
 h1{
   text-align: center;
-  padding:1em;
+  padding:1.5em;
   font-size: 350%
 }
 
@@ -31,6 +36,11 @@ h1{
   float:right;
   margin-top: 3em;
   margin-right:5px;
+}
+
+.contact-link{
+  display:block;
+  text-decoration: none;
 }
 
 body {
