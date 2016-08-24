@@ -1,8 +1,9 @@
-/*@media (max-width: 700px) {
+@media (max-width: 700px) {
   img{
     display: none;
   }
-*/
+}
+
 #smiley {
   height: 10em;
   width: 10em;;
